@@ -83,7 +83,9 @@ const UnityPathway = () => {
                 <strong>Week 8:</strong>
                 <ul>
                     <li>Polish and playtesting: Learn about playtesting, debugging, and optimizing your games. Implement feedback and refine your projects.
-                        <a rel="noreferrer" target="_blank" href="https://learn.unity.com/tutorial/performance-optimization-for-mobile-apps">Unity Performance Optimization Tutorial by Unity Learn</a>
+                        <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=ZRDHEqy2uPI">Unity Performance Optimization Tips 1 by Unity Learn</a>
+                        
+                        <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=EK8sX8oCQbw">Unity Performance Optimization Tips 2 by Unity Learn</a>
                     </li>
                 </ul>
             </p>
@@ -93,7 +95,7 @@ const UnityPathway = () => {
                 <ul>
                     <li>Advanced scripting: Dive deeper into C# scripting, covering topics like object-oriented programming, data structures, and algorithms.</li>
                     <li>Unity Specializations: Explore Unity's official learning pathways and specializations to choose a specific area of focus.
-                        <a rel="noreferrer" target="_blank" href="https://learn.unity.com/specializations">Unity Specializations</a>
+                        <a rel="noreferrer" target="_blank" href="https://learn.unity.com/learn/pathways">Unity Specialization Pathways</a>
                     </li>
                 </ul>
             </p>
@@ -103,8 +105,8 @@ const UnityPathway = () => {
                     <li>Unity Shaders Tutorial by Catlike Coding: Dive into shader programming in Unity with this comprehensive tutorial series.
                         <a rel="noreferrer" target="_blank" href="https://catlikecoding.com/unity/tutorials/">Unity Shaders Tutorial by Catlike Coding</a>
                     </li>
-                    <li>Unity Mobile Game Development Course on Coursera: Join this course to learn mobile game development techniques using Unity.
-                        <a rel="noreferrer" target="_blank" href="https://www.coursera.org/learn/unity-mobile-game-development-for-beginners">Unity Mobile Game Development Course on Coursera</a>
+                    <li>Learn the basics of developing your own mobile games for Android and iOS using the game engine Unity.
+                        <a rel="noreferrer" target="_blank" href="https://www.coursera.org/learn/unity-mobile-game-development-for-beginners">Mobile Games 101 – Android and iOS Development - Udemy</a>
                     </li>
                 </ul>
             </p>
@@ -112,22 +114,17 @@ const UnityPathway = () => {
                 <strong>Week 11:</strong>
                 <ul>
                     <li>Unity Networking Tutorial by Mirror: Learn how to implement networking and multiplayer functionality in Unity with the Mirror networking library.
-                        <a rel="noreferrer" target="_blank" href="https://mirror-networking.com/docs/Guides/GettingStarted.html">Unity Networking Tutorial by Mirror</a>
+                        <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=8VVgIjWBXks">How to Build a Multiplayer Game with Unity + Mirror by Shrine</a>
                     </li>
-                    <li>Unity AR Foundation Tutorial by Unity Learn: Explore this tutorial to learn how to create augmented reality (AR) experiences using Unity's AR Foundation.
-                        <a rel="noreferrer" target="_blank" href="https://learn.unity.com/tutorial/ar-foundation-101">Unity AR Foundation Tutorial by Unity Learn</a>
-                    </li>
+                    
                 </ul>
             </p>
 
             <p>
                 <strong>Week 12:</strong>
                 <ul>
-                    <li>Unity Specializations: Explore Unity's official learning pathways and specializations to choose a specific area of focus.
-                        <a rel="noreferrer" target="_blank" href="https://learn.unity.com/specializations">Unity Specializations</a>
-                    </li>
-                    <li>Unity Specialization Courses on Pluralsight: Access Pluralsight's Unity specialization courses to dive deeper into your chosen area.
-                        <a rel="noreferrer" target="_blank" href="https://www.pluralsight.com/paths/unity">Unity Specialization Courses on Pluralsight</a>
+                <li>Unity AR Foundation Tutorial by Unity Learn: Explore this tutorial to learn how to create augmented reality (AR) experiences using Unity's AR Foundation.
+                        <a rel="noreferrer" target="_blank" href="https://learn.unity.com/search?k=%5B%22q%3Aar%22%5D">Unity AR Foundation Tutorial by Unity Learn</a>
                     </li>
                 </ul>
             </p>
