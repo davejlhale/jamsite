@@ -69,7 +69,13 @@ const UnityPathway = () => {
                         <a rel="noreferrer" target="_blank" href="https://www.youtube.com/playlist?list=PLiyfvmtjWC_XmdYfXm2i1AQ3lKrEPgc9-">Unity Physics Tutorial by GamesPlusJames</a>
                     </li>
                     <li>Level design: Study principles of level design and experiment with creating engaging game levels.
-                        <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=HCVzSWTRYTM">Unity Level Design Tutorial by Blackthornprod</a>
+
+                    <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=G8AT01tuyrk">Basic Principles of Game Design by Brackeys</a>
+
+                        <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=pNvUWHquSHc">An Introduction to Level Design by Extra Credits</a>
+
+                        <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=iNEe3KhMvXM">Ten Principles for Good Level Design by GDC</a>
+
                     </li>
                 </ul>
             </p>
