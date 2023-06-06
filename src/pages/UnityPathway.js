@@ -19,8 +19,15 @@ const UnityPathway = () => {
                 <ul>
                     <li>Learn C# basics: If you're not already familiar with C#, spend this week learning the fundamentals of the language.</li>
                     <li>Unity scripting: Start learning Unity's scripting system and how to write scripts to control game objects.
-                        <a rel="noreferrer" target="_blank" href="https://www.youtube.com/playlist?list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7">Unity Beginner Scripting Playlist by Brackeys</a>
+                        
+                         <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=Lu76c85LhGY">How to Make a Game - Unity Beginner Tutorial Playlist by Jason Weimann</a>
+                         <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=Ii-scMenaOQ&list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U">Build a 2D Platformer Game in Unity Playlist by Coding in Flow</a>        
+                         <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=n0GQL5JgJcY&list=PLrnPJCHvNZuB5ATsJZLKX3AW4V9XaIV9b">Build Your First 3D Game in Unity Playlist by Coding in Flow</a>
+                        <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=nu5nyrB9U_o&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7">How to make an RPG in Unity Playlist by Brackeys</a>
+                        <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=beuoNuK2tbk&list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0&index=1">How to make a Tower Defense Game Playlist by Brackeys</a>
+                   
                     </li>
+
                 </ul>
             </p>
             <p>
@@ -51,7 +58,7 @@ const UnityPathway = () => {
                 <ul>
                     <li>User interfaces (UI): Learn how to create intuitive UI elements for your games, including menus, buttons, and score displays.</li>
                     <li>Sound and music: Understand how to integrate audio elements into your games using Unity's audio system.
-                        <a rel="noreferrer" target="_blank" href="https://www.youtube.com/playlist?list=PLB5_EOMkLx_WK-7l5K-XGCoaXF6YFDlMv">Unity Audio Tutorial by Jason Weimann</a>
+                        <a rel="noreferrer" target="_blank" href="https://www.youtube.com/watch?v=B9yxkJuHLek">Game Audio as a beginner by Jason Weimann</a>
                     </li>
                 </ul>
             </p>
@@ -108,38 +115,38 @@ const UnityPathway = () => {
             </p>
 
             <p>
-            <strong>Week 12:</strong>
-            <ul>
-        <li>Unity Specializations: Explore Unity's official learning pathways and specializations to choose a specific area of focus.
-            <a rel="noreferrer" target="_blank" href="https://learn.unity.com/specializations">Unity Specializations</a>
-        </li>
-        <li>Unity Specialization Courses on Pluralsight: Access Pluralsight's Unity specialization courses to dive deeper into your chosen area.
-            <a rel="noreferrer" target="_blank" href="https://www.pluralsight.com/paths/unity">Unity Specialization Courses on Pluralsight</a>
-        </li>
-    </ul>
-</p>
-<h3>Months 4-6: Projects and Specialization</h3>
-<p>
-    <strong>Weeks 13-16:</strong>
-    <ul>
-        <li>Project-Based Learning: Start working on your own game projects, applying the concepts and skills you've learned so far. Use online resources, forums, and documentation for guidance.</li>
-    </ul>
-</p>
-<p>
-    <strong>Weeks 17-20:</strong>
-    <ul>
-        <li>Continued Project Development: Continue developing your projects, adding more advanced features and refining gameplay mechanics. Seek feedback from peers and iterate on your designs.</li>
-    </ul>
-</p>
-<p>
-    <strong>Weeks 21-24:</strong>
-    <ul>
-        <li>Portfolio Development: Focus on creating a portfolio to showcase your Unity skills. Polish your projects, document your process, and consider publishing them on platforms like GitHub or itch.io.</li>
-    </ul>
-</p>
-<p>
-    Remember, this learning plan is just a guideline, and you can adapt it based on your learning pace and goals. Enjoy your Unity learning journey!
-</p>
+                <strong>Week 12:</strong>
+                <ul>
+                    <li>Unity Specializations: Explore Unity's official learning pathways and specializations to choose a specific area of focus.
+                        <a rel="noreferrer" target="_blank" href="https://learn.unity.com/specializations">Unity Specializations</a>
+                    </li>
+                    <li>Unity Specialization Courses on Pluralsight: Access Pluralsight's Unity specialization courses to dive deeper into your chosen area.
+                        <a rel="noreferrer" target="_blank" href="https://www.pluralsight.com/paths/unity">Unity Specialization Courses on Pluralsight</a>
+                    </li>
+                </ul>
+            </p>
+            <h3>Months 4-6: Projects and Specialization</h3>
+            <p>
+                <strong>Weeks 13-16:</strong>
+                <ul>
+                    <li>Project-Based Learning: Start working on your own game projects, applying the concepts and skills you've learned so far. Use online resources, forums, and documentation for guidance.</li>
+                </ul>
+            </p>
+            <p>
+                <strong>Weeks 17-20:</strong>
+                <ul>
+                    <li>Continued Project Development: Continue developing your projects, adding more advanced features and refining gameplay mechanics. Seek feedback from peers and iterate on your designs.</li>
+                </ul>
+            </p>
+            <p>
+                <strong>Weeks 21-24:</strong>
+                <ul>
+                    <li>Portfolio Development: Focus on creating a portfolio to showcase your Unity skills. Polish your projects, document your process, and consider publishing them on platforms like GitHub or itch.io.</li>
+                </ul>
+            </p>
+            <p>
+                Remember, this learning plan is just a guideline, and you can adapt it based on your learning pace and goals. Enjoy your Unity learning journey!
+            </p>
         </PageContainer>
     );
 };
